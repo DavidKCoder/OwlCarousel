@@ -1,0 +1,29 @@
+.container .item {
+   background: #2980b9;
+   height: 150px;
+   text-shadow: 3px 3px 5px #34495e;
+}
+
+.container {
+   color: #627988;
+   text-align: center;
+   padding: 10em 0;
+   margin: 0;
+}
+
+h2 {
+   text-transform: uppercase;
+   font-style: italic;
+}
+
+.container h3 {
+   font-size: 25px;
+   color: #ecf0f1;
+   text-align: center;
+   padding: 4rem 0;
+   margin: 0;
+   font-style: italic;
+   font-weight: 300;
+}
+
+
